@@ -1,4 +1,4 @@
-# Terraform Module Creation
+# Cloud Modularization: Terraform-Powered AWS Environment Deployment
 
 ## Introduction
 All the Modules code and tf files are available in the [Terraform](https://github.com/ashwaq06/terraform_module_creation/tree/main/Terraform) directory.
